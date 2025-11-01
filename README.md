@@ -44,7 +44,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/ROS-22314e.svg?style=for-the-badge&logo=ros&logoColor=white" />
     <img src="https://img.shields.io/badge/cmake-064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white" /> <br />
-    <img src="https://img.shields.io/badge/MORAI-000000.svg?style=for-the-badge&logo=morai" />
+    <img src="https://img.shields.io/badge/MORAI-000000.svg?style=for-the-badge&logo=MEGA" />
     <img src="https://img.shields.io/badge/matlab-3776ab.svg?style=for-the-badge&logo=matlab" />
     <img src="https://img.shields.io/badge/simulink-fdbe85.svg?style=for-the-badge&logo=simulink" />
     <img src="https://img.shields.io/badge/carmaker-3776ab.svg?style=for-the-badge&logo=carmaker" /> <br />
